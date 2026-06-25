@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧪 GB's Garage Lab
+# 🧪 Skura's Garage Lab
 
 *No portal gun. No dimension-hopping. Just a 20-year-old, a laptop, and an unreasonable amount of pre-registered hypotheses.*
 
